@@ -1968,27 +1968,4 @@
 
 .u-section-9 .u-list-item-9.u-list-item-9.u-list-item-9:hover:before {
   background-color: #f2f2f2 !important;
-}.u-section-10 .u-sheet-1 {
-  min-height: 390px;
-}
-
-.u-section-10 .u-text-1 {
-  margin: 20px auto 0;
-}
-
-.u-section-10 .u-form-1 {
-  width: 570px;
-  margin: 29px auto -6px;
-}
-
-@media (max-width: 767px) {
-  .u-section-10 .u-form-1 {
-    width: 540px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-10 .u-form-1 {
-    width: 340px;
-  }
 }
